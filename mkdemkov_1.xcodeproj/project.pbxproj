@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		B5F31AFB28E22C8B0033ACBE /* Homework1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Homework1.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B5F31AFB28E22C8B0033ACBE /* mkdemkov_1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = mkdemkov_1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5F31AFE28E22C8C0033ACBE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B5F31B0028E22C8C0033ACBE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		B5F31B0228E22C8C0033ACBE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		B5F31AFC28E22C8B0033ACBE /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B5F31AFB28E22C8B0033ACBE /* Homework1.app */,
+				B5F31AFB28E22C8B0033ACBE /* mkdemkov_1.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B5F31AFA28E22C8B0033ACBE /* Homework1 */ = {
+		B5F31AFA28E22C8B0033ACBE /* mkdemkov_1 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B5F31B0F28E22C8E0033ACBE /* Build configuration list for PBXNativeTarget "Homework1" */;
+			buildConfigurationList = B5F31B0F28E22C8E0033ACBE /* Build configuration list for PBXNativeTarget "mkdemkov_1" */;
 			buildPhases = (
 				B5F31AF728E22C8B0033ACBE /* Sources */,
 				B5F31AF828E22C8B0033ACBE /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = Homework1;
+			name = mkdemkov_1;
 			productName = Homework1;
-			productReference = B5F31AFB28E22C8B0033ACBE /* Homework1.app */;
+			productReference = B5F31AFB28E22C8B0033ACBE /* mkdemkov_1.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = B5F31AF628E22C8B0033ACBE /* Build configuration list for PBXProject "Homework1" */;
+			buildConfigurationList = B5F31AF628E22C8B0033ACBE /* Build configuration list for PBXProject "mkdemkov_1" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B5F31AFA28E22C8B0033ACBE /* Homework1 */,
+				B5F31AFA28E22C8B0033ACBE /* mkdemkov_1 */,
 			);
 		};
 /* End PBXProject section */
@@ -294,6 +294,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -321,6 +322,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -337,7 +339,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B5F31AF628E22C8B0033ACBE /* Build configuration list for PBXProject "Homework1" */ = {
+		B5F31AF628E22C8B0033ACBE /* Build configuration list for PBXProject "mkdemkov_1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B5F31B0D28E22C8E0033ACBE /* Debug */,
@@ -346,7 +348,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B5F31B0F28E22C8E0033ACBE /* Build configuration list for PBXNativeTarget "Homework1" */ = {
+		B5F31B0F28E22C8E0033ACBE /* Build configuration list for PBXNativeTarget "mkdemkov_1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B5F31B1028E22C8E0033ACBE /* Debug */,
